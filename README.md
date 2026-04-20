@@ -2,7 +2,7 @@
 
 > *"A testament to the power of a bored mind with a keyboard."
 
-I'm a **BTech Computer Science and Engineering student** focused on hardware engineering, custom modular electronics, and autonomous AI agents.[reference:1] Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
+I'm a **BTech Computer Science and Engineering student** focused on hardware engineering, custom modular electronics, and autonomous AI agents. Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
 
 ---
 
