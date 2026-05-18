@@ -8,11 +8,11 @@ I'm a **BTech Computer Science and Engineering student** focused on hardware eng
 
 ## ⚡ Featured Projects
 
-### [ProjectAI](https://github.com/TCOxAV/ProjectAI)
-A terminal-based autonomous AI agent for Lubuntu optimized for low-resource hardware (8GB RAM / 2GB VRAM). Features:
-- **Self-modification engine** – analyzes and rewrites its own code
-- **Internet-aware reasoning** – switches between offline and live-data processing
-- **Automated system purging** – kills background tasks to free up resources
+### [AEGIS](https://github.com/tcoxav/aegis)
+A locally-run agentic AI core for Windows and Linux, fine-tuned on Qwen2.5-0.5B and optimized for low-resource hardware (4GB RAM / 1.3GB VRAM). Features:
+- **Full system access** – runs terminal commands, reads and writes files autonomously
+- **Web-aware reasoning** – searches and fetches live web data on demand
+- **Agentic loop** – chains multiple tool calls automatically to complete complex tasks
 
 ### [Tools](https://github.com/TCOxAV/Tools)
 Bug bounty toolkit for security research:
