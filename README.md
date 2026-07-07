@@ -1,27 +1,31 @@
 # 👋 Welcome to my digital workshop
 
-I'm a **BTech Computer Science and Engineering student** focused on hardware engineering, custom modular electronics, and autonomous AI agents. Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
+I'm **TCOxAV®**, a **BTech Computer Science and Engineering student**. My work revolves around hardware engineering, custom modular electronics, and autonomous AI agents. Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
+
+> ✦ Hardware, autonomy, chaos.
 
 ---
 
 ## ⚡ Featured Projects
 
-### [AEGIS](https://github.com/tcoxav/aegis)
-A locally-run agentic AI core for Windows and Linux, fine-tuned on Qwen2.5-0.5B and optimized for low-resource hardware (4GB RAM / 1.3GB VRAM). Features:
-- **Full system access** – runs terminal commands, reads and writes files autonomously
-- **Web-aware reasoning** – searches and fetches live web data on demand
-- **Agentic loop** – chains multiple tool calls automatically to complete complex tasks
+### ProjectAI (Beta)
+*Self-modifying AI agent*
+Currently building a powerful, autonomous AI agent capable of dynamic reasoning and adaptation.
 
-### [Tools](https://github.com/TCOxAV/Tools)
-Bug bounty toolkit for security research:
-- **Reconnaissance** – CLI‑based tool with rate limiting, multiple scan modes, and integration with Nmap, Subfinder, httpx, and Nuclei
-- **Vulnerability Exploiter** – GUI‑based app for XSS, SQLi, LFI, RCE, and SSRF
+### Bug Bounty Toolkit
+Building security tooling for reconnaissance and vulnerability exploitation.
+
+### [universal-cyber-threat-and-abuse-templates](https://github.com/TCOxAV/universal-cyber-threat-and-abuse-templates)
+🛡️ A collection of plug-and-play scripts and templates to help speed up reporting scams, phishing, and malware. Designed to be used responsibly for genuine takedowns.
 
 ### [ProxiGuard](https://github.com/TCOxAV/ProxiGuard)
-Hackathon project – a simple program that detects nearby threats reported by others and alerts users in real time.
+Hackathon project – a program that detects nearby threats reported by others and alerts users in real time. (Built with JavaScript)
 
 ### [BoredCodes](https://github.com/TCOxAV/BoredCodes)
-A creative playground where boredom becomes innovation – games and experiments built primarily with Python (90.4%) and C (9.6%).
+A creative playground where boredom becomes innovation – making games or anything when bored.
+
+### [Arduino_Madness](https://github.com/TCOxAV/Arduino_Madness) & [HandOrb](https://github.com/TCOxAV/HandOrb)
+Hardware and electronics projects mixing Python and JavaScript.
 
 ---
 
@@ -29,24 +33,23 @@ A creative playground where boredom becomes innovation – games and experiments
 
 | Category | Technologies |
 |----------|--------------|
-| **Languages** | Python, C, HTML, Shell, Makefile |
-| **Security Tools** | Nmap, Subfinder, httpx, Nuclei, custom exploit frameworks |
-| **AI/ML** | Ollama, DeepSeek models, autonomous agent architectures |
-| **Web** | HTML/CSS, Jekyll, GitHub Actions |
+| **Languages** | Python, C, JavaScript, HTML, Shell |
+| **Security Tools** | Bug bounty tooling, threat reporting |
+| **AI/ML** | Autonomous agent architectures, ProjectAI |
+| **Web** | HTML/CSS, JavaScript |
 
 ---
 
-## 📊 GitHub Activity
+## 📊 GitHub Stats
 
-- **134 contributions in the last year**
-- Active maintainer of 6+ repositories
-- Latest commits: April 2026 across multiple projects
+- **7 Public Repositories**
+- Active maintainer of multiple projects
 
 ---
 
 ## 📫 Let's Connect
 
-- 🔭 Currently building: autonomous AI systems and security tooling
+- 🔭 Currently building: **ProjectAI** and security tooling
 - 🌱 Learning: hardware engineering and modular electronics
 - 💬 Ask me about: bug bounty tooling, AI agents, or turning random ideas into code
 - ⚡ Fun fact: "I'm a Bored Coder X Cyber" – creativity thrives on curiosity, not constraints.
