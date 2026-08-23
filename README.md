@@ -15,9 +15,6 @@ Currently building a powerful, autonomous AI agent capable of dynamic reasoning 
 ### Bug Bounty Toolkit
 Building security tooling for reconnaissance and vulnerability exploitation.
 
-### [universal-cyber-threat-and-abuse-templates](https://github.com/TCOxAV/universal-cyber-threat-and-abuse-templates)
-🛡️ A collection of plug-and-play scripts and templates to help speed up reporting scams, phishing, and malware. Designed to be used responsibly for genuine takedowns.
-
 ### [ProxiGuard](https://github.com/TCOxAV/ProxiGuard)
 Hackathon project – a program that detects nearby threats reported by others and alerts users in real time. (Built with JavaScript)
 
