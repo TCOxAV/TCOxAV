@@ -8,7 +8,7 @@ I'm **TCOxAV®**, a **BTech Computer Science and Engineering student**. My work 
 
 ## ⚡ Featured Projects
 
-### ProjectAI (Beta)
+### ProjectAI (Beta) (Private)
 *Self-modifying AI agent*
 Currently building a powerful, autonomous AI agent capable of dynamic reasoning and adaptation.
 
