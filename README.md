@@ -39,7 +39,7 @@ Hardware and electronics projects mixing Python and JavaScript.
 
 ## 📊 GitHub Stats
 
-- **7 Public Repositories**
+- **7 Public Repositories and 2 Private Repositories**
 - Active maintainer of multiple projects
 
 ---
