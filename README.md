@@ -12,8 +12,9 @@ I'm **TCOxAV®**, a **BTech Computer Science and Engineering student**. My work 
 *Self-modifying AI agent*
 Currently building a powerful, autonomous AI agent capable of dynamic reasoning and adaptation.
 
-### Bug Bounty Toolkit
+### Bug Bounty Toolkit (Private)
 Building security tooling for reconnaissance and vulnerability exploitation.
+>cant give becoz its still work in progress. but im working on a good script
 
 ### [ProxiGuard](https://github.com/TCOxAV/ProxiGuard)
 Hackathon project – a program that detects nearby threats reported by others and alerts users in real time. (Built with JavaScript)
