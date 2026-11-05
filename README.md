@@ -34,7 +34,7 @@ A project which simulates an object with movements of the hand
 >made with friends
 
 ### [WideConnect](https://github.com/TCOxAV/WideConnect)
-
+A high-performance, open-source, low-latency remote device management suite built in Go and Flutter
 >An working in progress project
 
 ---
