@@ -33,6 +33,8 @@ Hardware and electronics projects mixing Python and JavaScript.
 A project which simulates an object with movements of the hand
 >made with friends
 
+###
+
 ### [WideConnect](https://github.com/TCOxAV/WideConnect)
 A high-performance, open-source, low-latency remote device management suite built in Go and Flutter
 >An working in progress project
@@ -49,6 +51,7 @@ A high-performance, open-source, low-latency remote device management suite buil
 | **Web** | HTML/CSS, JavaScript |
 
 ---
+
 ## 📊 Languages & Technologies
 
 | Language / Tech | Skill Level | Progress |
@@ -58,6 +61,7 @@ A high-performance, open-source, low-latency remote device management suite buil
 | **JavaScript** | Intermediate | `████████░░` |
 | **Shell Scripting** | Beginner | `████░░░░░░` |
 | **HTML / CSS** | Beginner | `████░░░░░░` |
+| **Docker/DockerFile** | Beginner | `████░░░░░░` |
 | **Go** | Learning | `██░░░░░░░░` |
 | **Flutter** | Learning | `██░░░░░░░░` |
 
