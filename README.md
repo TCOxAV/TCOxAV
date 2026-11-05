@@ -1,6 +1,6 @@
 # 👋 Welcome to my digital workshop
 
-I'm **TCOxAV®**, a **BTech Computer Science and Engineering student**. My work revolves around hardware engineering, custom modular electronics, and autonomous AI agents. Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
+I'm **TCOxAV**, a **BTech Computer Science and Engineering student**. My work revolves around hardware engineering, custom modular electronics, and autonomous AI agents. Whether it's a puzzle game to pass the time or a complex application born from late-night inspiration, everything here is fueled by curiosity and a passion for turning fleeting thoughts into functional code.
 
 > ✦ Hardware, autonomy, chaos.
 
