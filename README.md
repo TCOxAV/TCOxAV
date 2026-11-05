@@ -33,7 +33,7 @@ Hardware and electronics projects mixing Python and JavaScript.
 A project which simulates an object with movements of the hand
 >made with friends
 
-### [Mood of the Day](https://github.com/TCOxAV/MoodOfTheDay)
+### [Mood of the Day](https://github.com/TCOxAV/Mood_of_the_Day)
 A lightweight Linux desktop application that greets you each morning with a famous quotation personalized to your interests, personality, and feedback.
 >Will finish after [WideConnect](https://github.com/TCOxAV/WideConnect)
 
