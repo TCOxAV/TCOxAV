@@ -8,22 +8,30 @@ I'm **TCOxAV®**, a **BTech Computer Science and Engineering student**. My work 
 
 ## ⚡ Featured Projects
 
-### ProjectAI (Beta) (Private)
+### ProjectAI (Beta) (Private - Discontinued)
 *Self-modifying AI agent*
 Currently building a powerful, autonomous AI agent capable of dynamic reasoning and adaptation.
+>Unfortunately had to be discontinued due to difficulty in creation of AI
 
 ### Bug Bounty Toolkit (Private)
 Building security tooling for reconnaissance and vulnerability exploitation.
->cant give becoz its still work in progress. but im working on a good script
+>Cannot be given to public
 
 ### [ProxiGuard](https://github.com/TCOxAV/ProxiGuard)
 Hackathon project – a program that detects nearby threats reported by others and alerts users in real time. (Built with JavaScript)
+>Simple idea, not good enough to be implemented
 
 ### [BoredCodes](https://github.com/TCOxAV/BoredCodes)
 A creative playground where boredom becomes innovation – making games or anything when bored.
+>Name says what it is
 
-### [Arduino_Madness](https://github.com/TCOxAV/Arduino_Madness) & [HandOrb](https://github.com/TCOxAV/HandOrb)
+### [Arduino_Madness](https://github.com/TCOxAV/Arduino_Madness)
 Hardware and electronics projects mixing Python and JavaScript.
+>Based on [BoredCodes](https://github.com/TCOxAV/BoredCodes) because this repository is also made when bored
+
+### [HandOrb](https://github.com/TCOxAV/HandOrb)
+A project which simulates an object with movements of the hand
+>made with friends
 
 ---
 
@@ -35,13 +43,6 @@ Hardware and electronics projects mixing Python and JavaScript.
 | **Security Tools** | Bug bounty tooling, threat reporting |
 | **AI/ML** | Autonomous agent architectures, ProjectAI |
 | **Web** | HTML/CSS, JavaScript |
-
----
-
-## 📊 GitHub Stats
-
-- **7 Public Repositories and 2 Private Repositories**
-- Active maintainer of multiple projects
 
 ---
 
