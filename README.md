@@ -45,6 +45,19 @@ A project which simulates an object with movements of the hand
 | **Web** | HTML/CSS, JavaScript |
 
 ---
+## 📊 Languages & Technologies
+
+| Language / Tech | Skill Level | Progress |
+| :--- | :--- | :--- |
+| **Python** | Intermediate | `████████░░` |
+| **C** | Intermediate | `████████░░` |
+| **JavaScript** | Intermediate | `████████░░` |
+| **Shell Scripting** | Beginner | `████░░░░░░` |
+| **HTML / CSS** | Beginner | `████░░░░░░` |
+| **Go** | Learning | `██░░░░░░░░` |
+| **Flutter** | Learning | `██░░░░░░░░` |
+
+---
 
 ## 📫 Let's Connect
 
