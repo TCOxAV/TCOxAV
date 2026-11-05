@@ -33,6 +33,10 @@ Hardware and electronics projects mixing Python and JavaScript.
 A project which simulates an object with movements of the hand
 >made with friends
 
+### [WideConnect](https://github.com/TCOxAV/WideConnect)
+
+>An working in progress project
+
 ---
 
 ## 🛠️ Technical Toolkit
