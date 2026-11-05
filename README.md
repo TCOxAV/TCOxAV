@@ -33,7 +33,9 @@ Hardware and electronics projects mixing Python and JavaScript.
 A project which simulates an object with movements of the hand
 >made with friends
 
-###
+### [Mood of the Day](https://github.com/TCOxAV/MoodOfTheDay)
+A lightweight Linux desktop application that greets you each morning with a famous quotation personalized to your interests, personality, and feedback.
+>Will finish after [WideConnect](https://github.com/TCOxAV/WideConnect)
 
 ### [WideConnect](https://github.com/TCOxAV/WideConnect)
 A high-performance, open-source, low-latency remote device management suite built in Go and Flutter
